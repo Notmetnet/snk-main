@@ -6,14 +6,14 @@
         "style": "background: linear-gradient(135deg, #bf4747 0%, #6e5d6e 100%); color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.3);",
         "btnStyle": "border: none; color: white; background-color: orange;",
         "experimental": false,
-        "version": "5.1.0",
+        "version": "6.0.0",
         "author": "Notmetnet",
         "contributors": [
             "Maso931",
             "opranaa"
         ],
         "loadType": "injectable",
-        "price": "Free",
+        "price": "undefined",
         "trial": false
     }
 }
