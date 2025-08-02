@@ -1,6 +1,6 @@
 {
     "snk-yt-loader": {
-        "url": "X7fHVxa+D5lDN86R5Ku/Fg==:EtSpXiTdiBntKJCcLxk5p6AdoEt1oU6UwL17ucpCv/F57pXeNtJ/Ql5vEbDP5JCcQL5dHOW9tzclO8APUxj69tiugdmV1AIlhYRU2cTr/mfpgv5nT1DGZ2S3gTnd4V6E",
+        "url": "https://raw.githubusercontent.com/Notmetnet/snk-main/refs/heads/master/yt-unblocker.js",
         "name": "Snk YouTube Loader",
         "description": "A lightweight JavaScript injector designed to simplify access to YouTube content. This tool bypasses school blockers, specifically YouTube's Lightspeed system, and allows users to instantly load desired videos. We're continuing to refine and improve the YouTube Unblocker with new features and updates.",
         "style": "background: linear-gradient(135deg, #bf4747 0%, #6e5d6e 100%); color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.3);",
